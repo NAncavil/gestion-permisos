@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c8a367-60d2-44d9-b824-b255c0b373b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestion permisos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="98c8a367-60d2-44d9-b824-b255c0b373b0" name="Changes" comment="15:49">
+      <change beforePath="$PROJECT_DIR$/src/Ciudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Ciudadano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Construccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Construccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EEspeciales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/EEspeciales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestionPermisos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/GestionPermisos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Municipalidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Municipalidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Negocio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Negocio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permiso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Permiso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VentanaLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VentanaMenuCiudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaMenuCiudadano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VentanaMenuMunicipalidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaMenuMunicipalidad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +55,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712691533128</updated>
-      <workItem from="1712691534468" duration="601000" />
+      <workItem from="1712691534468" duration="1485000" />
     </task>
+    <task id="LOCAL-00001" summary="15:49">
+      <option name="closed" value="true" />
+      <created>1712692154995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712692154995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="15:49">
+      <option name="closed" value="true" />
+      <created>1712692256385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712692256385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="15:49">
+      <option name="closed" value="true" />
+      <created>1712692413858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712692413858</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15:49" />
+    <option name="LAST_COMMIT_MESSAGE" value="15:49" />
   </component>
 </project>
