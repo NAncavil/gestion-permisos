@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c8a367-60d2-44d9-b824-b255c0b373b0" name="Changes" comment="15:49">
-      <change beforePath="$PROJECT_DIR$/src/Ciudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Ciudadano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Construccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Construccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EEspeciales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/EEspeciales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestionPermisos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/GestionPermisos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Municipalidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Municipalidad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Negocio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Negocio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Permiso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Permiso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VentanaLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VentanaMenuCiudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaMenuCiudadano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VentanaMenuMunicipalidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vista/VentanaMenuMunicipalidad.java" afterDir="false" />
+    <list default="true" id="98c8a367-60d2-44d9-b824-b255c0b373b0" name="Changes" comment="16:03">
+      <change beforePath="$PROJECT_DIR$/src/Controlador/GestionPermisos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/GestionPermisos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Ciudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Ciudadano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Construccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Construccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelo/Permiso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelo/Permiso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -36,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -45,6 +42,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712691533128</updated>
-      <workItem from="1712691534468" duration="1485000" />
+      <workItem from="1712691534468" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="15:49">
       <option name="closed" value="true" />
@@ -81,7 +83,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712692413858</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16:03">
+      <option name="closed" value="true" />
+      <created>1712693049132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712693049132</updated>
+    </task>
+    <task id="LOCAL-00005" summary="16:03">
+      <option name="closed" value="true" />
+      <created>1712693096043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712693096043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="15:49" />
-    <option name="LAST_COMMIT_MESSAGE" value="15:49" />
+    <MESSAGE value="16:03" />
+    <option name="LAST_COMMIT_MESSAGE" value="16:03" />
   </component>
 </project>
