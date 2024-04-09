@@ -1,3 +1,5 @@
+package Modelo;
+
 public class Ciudadano {
 	private String nombre;
 	private String telefono;

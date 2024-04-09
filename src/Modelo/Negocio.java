@@ -1,3 +1,5 @@
+package Modelo;
+
 public class Negocio extends Permiso {
 	private String tipo_negocio;
 	private String tamaño_local;

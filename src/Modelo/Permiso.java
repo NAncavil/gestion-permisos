@@ -1,3 +1,5 @@
+package Modelo;
+
 public class Permiso {
 	private date fecha_emision;
 	private date fecha_vencimiento;

@@ -1,3 +1,5 @@
+package Vista;
+
 public class VentanaMenuCiudadano {
 
 	public void verMisPermisos() {

@@ -1,3 +1,5 @@
+package Vista;
+
 public class VentanaMenuMunicipalidad {
 
 	public void verTodosPermisos() {
