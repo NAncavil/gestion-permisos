@@ -2,8 +2,10 @@ package Controlador;
 
 import Modelo.Permiso;
 
+import java.util.ArrayList;
+
 public class GestionPermisos {
-	private arraylist<Permiso> permisos_Realizados;
+	private ArrayList<Permiso> permisos_Realizados;
 
 	public void registrarPermiso() {
 		throw new UnsupportedOperationException();

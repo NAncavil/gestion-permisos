@@ -6,5 +6,9 @@ public class Ciudadano {
 	private String correo;
 	private String iD;
 	private String contraseña;
-	public Permiso _.._;
+	public Permiso _
+
+    public Ciudadano(String contraseña) {
+        this.contraseña = contraseña;
+    }.._;
 }
